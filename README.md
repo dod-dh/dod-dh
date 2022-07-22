@@ -11,6 +11,11 @@
 - 📫 email / guqeh1@gmail.com
 
 
+# Skills
+
+<img src="https://img.shields.io/badge/{python}-{blue}?style={flat}&logo={Python}&logoColor={3776AB}"/>
+
+
 
 
 
