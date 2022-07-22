@@ -13,7 +13,8 @@
 
 # Skills
 
-<img src="https://img.shields.io/badge/python-blue?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/python-black?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
 
 
 
