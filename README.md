@@ -1,11 +1,10 @@
 
 
-### 👋  Hello  👋
+### 👋  Hello, this is DH  👋
 
 
 
-
-# 정 보
+# INFO
 - 🌱 이제 개발에 대해 배우기 시작하는 개발초보
 - 🔭 현재 대한민국 해군 장교
 - 📫 email / guqeh1@gmail.com
@@ -14,6 +13,9 @@
 # Skills
 
 <img src="https://img.shields.io/badge/python-black?style=flat&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guqeh&layout=compact&theme=tokyonight)
 
 
 
