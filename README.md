@@ -4,9 +4,10 @@
 
 
 
-# INFO
+# Info
+
 - 🌱 이제 개발에 대해 배우기 시작하는 개발초보
-- 🔭 현재 대한민국 해군 장교
+- 🔭 현재 대한민국 해군 장교(ROK Navy)
 - 📫 email / guqeh1@gmail.com
 
 
