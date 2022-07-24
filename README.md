@@ -13,13 +13,14 @@
 
 # Skills
 
-## Front-end
+### Front-end
+ <img src="https://img.shields.io/badge/Html-white?style=flat&logo=Html5&logoColor=E34F26"/>  <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=CSS3&logoColor=1572B6"/> 
 
-<img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=092E20"/> <img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Html-white?style=flat&logo=Html5&logoColor=E34F26"/>  <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/AWS-white?style=flat&logo=Amazon AWS&logoColor=232F3E"/> <img src="https://img.shields.io/badge/Oracle-white?style=flat&logo=Oracle&logoColor=F80000"/><img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/>
+### Back-end
+<img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=092E20"/> <img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/AWS-white?style=flat&logo=Amazon AWS&logoColor=232F3E"/> <img src="https://img.shields.io/badge/Oracle-white?style=flat&logo=Oracle&logoColor=F80000"/><img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/>
 
-## Back-end
-
-# 
+# Most used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRO-DH&layout=compact&theme=tokyonight)
 
 
