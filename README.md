@@ -14,7 +14,7 @@
 # Skills
 
 ### Front-end
- <img src="https://img.shields.io/badge/Html-white?style=flat&logo=Html5&logoColor=E34F26"/>  <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=CSS3&logoColor=1572B6"/> 
+ <img src="https://img.shields.io/badge/Html-white?style=flat&logo=Html5&logoColor=E34F26"/>  <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
 
 ### Back-end
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=092E20"/> <img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
