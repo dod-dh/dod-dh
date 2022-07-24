@@ -18,7 +18,8 @@
 
 ### Back-end
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=092E20"/> <img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/AWS-white?style=flat&logo=Amazon AWS&logoColor=232F3E"/> <img src="https://img.shields.io/badge/Oracle-white?style=flat&logo=Oracle&logoColor=F80000"/><img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/>
+
+<img src="https://img.shields.io/badge/Linux-white?style=flat&logo=Linux&logoColor=FCC624"/> <img src="https://img.shields.io/badge/AWS-white?style=flat&logo=Amazon AWS&logoColor=232F3E"/> <img src="https://img.shields.io/badge/Oracle-white?style=flat&logo=Oracle&logoColor=F80000"/><img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/>
 
 # Most used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRO-DH&layout=compact&theme=tokyonight)
