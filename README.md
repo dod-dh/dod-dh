@@ -7,7 +7,7 @@
 
 # 💬Info
 
-- 🌱 새내기 개발자
+- 🌱 주니어 개발자
 - 🔭 前 대한민국 해군 장교(ROK Navy)
 - 📫 email / guqeh1@gmail.com
 - 😄 Bakjoon rank : https://solved.ac/profile/guqeh
