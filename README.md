@@ -11,7 +11,7 @@
 - 🔭 前 대한민국 해군 장교(ROK Navy)
 - 📫 email / guqeh1@gmail.com
 - 😄 Bakjoon rank : https://solved.ac/profile/guqeh
-- 👯 blog : https://dhloo.tistory.com/
+- 👯 blog : 
 
 
 # 📚Stacks
