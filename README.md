@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Linux-white?style=flat&logo=Linux&logoColor=FCC624"/> <img src="https://img.shields.io/badge/AWS-white?style=flat&logo=Amazon AWS&logoColor=232F3E"/> <img src="https://img.shields.io/badge/Oracle-white?style=flat&logo=Oracle&logoColor=F80000"/><img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/>
 
 # 👯Most used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D.H.LEE&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dod-dh&layout=compact&theme=tokyonight)
 
 
 
